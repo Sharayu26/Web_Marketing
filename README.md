@@ -60,4 +60,6 @@ This dataset can be used for:
 
 ## Dashboard
 
+<img src = "https://github.com/Sharayu26/Web_Marketing/blob/main/Pages_Analysis%20Dashboard.png">
+
 <img src = ""
